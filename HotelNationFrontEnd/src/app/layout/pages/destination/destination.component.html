@@ -1,0 +1,79 @@
+<div class="container-xxl py-5">
+    <div class="container">
+        <!-- Price Filter -->
+        <div class="row mb-4">
+            <div class="col-md-6 mx-auto">
+                <div class="price-filter">
+                    <h6 class="text-primary mb-3">Filter by Maximum Price</h6>
+                    <div class="input-group">
+                        <input type="number" 
+                               class="form-control" 
+                               [(ngModel)]="maxPrice" 
+                               placeholder="Enter maximum price">
+                        <button class="btn btn-primary" 
+                                (click)="filterByPrice(maxPrice)">
+                            Filter
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Loading Spinner -->
+        <div *ngIf="loading" class="text-center">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+
+        <!-- Content -->
+        <div *ngIf="!loading">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="section-title bg-white text-center text-primary px-3">Destinations</h6>
+                <h1 class="mb-5">Our Hotels by Location</h1>
+            </div>
+
+            <!-- Iterate over locations -->
+            <div *ngFor="let location of locations" class="mb-5">
+                <h2 class="text-primary mb-4 location-header">{{ location }}</h2>
+                <div class="row g-4">
+                    <!-- Hotels in this location -->
+                    <div *ngFor="let hotel of getDisplayedHotels(location)" class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="package-item">
+                            <div class="hotel-header">
+                                <h3 class="hotel-name text-center py-3">{{ hotel.name }}</h3>
+                            </div>
+                            <div class="d-flex border-bottom">
+                                <h3 class="flex-fill text-center border-end py-2">
+                                    <i class="fa fa-map-marker-alt text-primary me-2"></i>{{ hotel.location }}
+                                </h3>
+                            </div>
+                            <div class="text-center p-4">
+                                <h3 class="mb-0 price">{{ hotel.price }} TND</h3>
+                                <div class="stars-container">
+                                    <small class="fa fa-star text-primary"></small>
+                                    <p class="mb-0">{{ hotel.stars }}</p>
+                                </div>
+                                <p class="hotel-type">{{ hotel.type }}</p>
+                                <div class="d-flex justify-content-center mb-2">
+                                    <a [href]="hotel.link" target="_blank" 
+                                       class="btn btn-sm btn-primary px-3" 
+                                       style="border-radius: 30px;">
+                                        View Details
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Load More Button -->
+                <div *ngIf="canLoadMore(location)" class="text-center mt-4">
+                    <button (click)="loadMore(location)" class="btn btn-primary load-more-btn">
+                        Load More Hotels in {{ location }}
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

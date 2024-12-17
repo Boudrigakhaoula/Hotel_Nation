@@ -1,0 +1,3778 @@
+[
+    {
+        "Name": "Hotel KANTA",
+        "Price": "72",
+        "Location": "Sousse",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_463/"
+    },
+    {
+        "Name": "Marhaba Beach",
+        "Price": "82",
+        "Location": "Sousse",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension Plus, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_376/"
+    },
+    {
+        "Name": "El Mouradi Palace",
+        "Price": "84",
+        "Location": "Sousse",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_63/"
+    },
+    {
+        "Name": "El Mouradi Hammamet",
+        "Price": "84",
+        "Location": "Hammamet",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_59/"
+    },
+    {
+        "Name": "El Mouradi El Menzah",
+        "Price": "76",
+        "Location": "Hammamet",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_60/"
+    },
+    {
+        "Name": "Zodiac Hotel & Aqua Park",
+        "Price": "76",
+        "Location": "Hammamet",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Demi Pension, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_28/"
+    },
+    {
+        "Name": "Dar Ismail",
+        "Price": "83",
+        "Location": "Tabarka",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_224/"
+    },
+    {
+        "Name": "Marina Prestige",
+        "Price": "66",
+        "Location": "Tabarka",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_400/"
+    },
+    {
+        "Name": "Golden Yasmine Mehari Tabarka",
+        "Price": "75",
+        "Location": "Tabarka",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_239/"
+    },
+    {
+        "Name": "City Busines Hotels",
+        "Price": "73",
+        "Location": "Monastir",
+        "Stars": "",
+        "Type": "Disponible en :Logement seul, Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_795/"
+    },
+    {
+        "Name": "Skanes Serail & Aquapark",
+        "Price": "86",
+        "Location": "Monastir",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete Plus",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_89/"
+    },
+    {
+        "Name": "Regency Hotel & Spa Monastir",
+        "Price": "86",
+        "Location": "Monastir",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_210/"
+    },
+    {
+        "Name": "Iberostar Royal El Mansour et Thalasso",
+        "Price": "104",
+        "Location": "Mahdia",
+        "Stars": "Excellent",
+        "Type": "Disponible en :Demi Pension, Pension complete, All Inclusive Soft, All Inclusive",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_221/"
+    },
+    {
+        "Name": "Mahdia Beach & Aquapark",
+        "Price": "99",
+        "Location": "Mahdia",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete, All Inclusive Soft, All Inclusive",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_223/"
+    },
+    {
+        "Name": "Mahdia Palace Thalasso",
+        "Price": "109",
+        "Location": "Mahdia",
+        "Stars": "Excellent",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension Plus, Pension complete Plus",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_252/"
+    },
+    {
+        "Name": "El Mouradi Djerba Menzel",
+        "Price": "80",
+        "Location": "Djerba",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_67/"
+    },
+    {
+        "Name": "Cesar Thalasso",
+        "Price": "96",
+        "Location": "Djerba",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete, All Inclusive Soft, All Inclusive",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_100/"
+    },
+    {
+        "Name": "Djerba Aqua Resort",
+        "Price": "81",
+        "Location": "Djerba",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete, All Inclusive Soft, All Inclusive",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_194/"
+    },
+    {
+        "Name": "The Penthouse Suites Hotel",
+        "Price": "173",
+        "Location": "Tunis",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_403/"
+    },
+    {
+        "Name": "Samarons",
+        "Price": "218",
+        "Location": "Tunis",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_429/"
+    },
+    {
+        "Name": "Ibn khaldoun Tunis",
+        "Price": "109",
+        "Location": "Tunis",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_54/"
+    },
+    {
+        "Name": "El Mouradi Tozeur",
+        "Price": "118",
+        "Location": "Tozeur",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_70/"
+    },
+    {
+        "Name": "Golden Yasmin Ras El Ain",
+        "Price": "106",
+        "Location": "Tozeur",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_227/"
+    },
+    {
+        "Name": "ksar Rouge Tozeur",
+        "Price": "110",
+        "Location": "Tozeur",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_724/"
+    },
+    {
+        "Name": "Royal Tulip Korbous Bay Thalasso & SPRINGS",
+        "Price": "450",
+        "Location": "Korbous",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_707/"
+    },
+    {
+        "Name": "Eden Star",
+        "Price": "114",
+        "Location": "Zarzis",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Demi Pension, Pension complete, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_326/"
+    },
+    {
+        "Name": "Lella Meriam Hotel & Club",
+        "Price": "78",
+        "Location": "Zarzis",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_311/"
+    },
+    {
+        "Name": "Vincci Safira Palms",
+        "Price": "81",
+        "Location": "Zarzis",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Demi Pension Plus, Pension complete Plus, All Inclusive Soft, All Inclusive",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_363/"
+    },
+    {
+        "Name": "Pacha Hotel",
+        "Price": "72",
+        "Location": "Sfax",
+        "Stars": "Moyen",
+        "Type": "Disponible en :Petit Dejeuner",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_412/"
+    },
+    {
+        "Name": "Dar El Hana",
+        "Price": "84",
+        "Location": "Sfax",
+        "Stars": "Excellent",
+        "Type": "Disponible en :Petit Dejeuner",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_493/"
+    },
+    {
+        "Name": "Occidental Sfax Centre",
+        "Price": "98",
+        "Location": "Sfax",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_547/"
+    },
+    {
+        "Name": "Hotel Gaia",
+        "Price": "89",
+        "Location": "Nabeul",
+        "Stars": "",
+        "Type": "Disponible en :Logement seul, Petit Dejeuner",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_849/"
+    },
+    {
+        "Name": "Les Pyramides Hotel Club & Spa",
+        "Price": "81",
+        "Location": "Nabeul",
+        "Stars": "Bien",
+        "Type": "Disponible en :Demi Pension, Pension complete, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_274/"
+    },
+    {
+        "Name": "Khayam Garden Beach & Spa",
+        "Price": "135",
+        "Location": "Nabeul",
+        "Stars": "Excellent",
+        "Type": "Disponible en :Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_384/"
+    },
+    {
+        "Name": "El Mouradi Gammarth",
+        "Price": "168",
+        "Location": "Gammarth",
+        "Stars": "Bien",
+        "Type": "Disponible en :Logement seul, Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_58/"
+    },
+    {
+        "Name": "Phebus Gammarth",
+        "Price": "78",
+        "Location": "Gammarth",
+        "Stars": "Moyen",
+        "Type": "Disponible en :Petit Dejeuner",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_225/"
+    },
+    {
+        "Name": "Golden Carthage Hotel Tunis",
+        "Price": "347",
+        "Location": "Gammarth",
+        "Stars": "Bien",
+        "Type": "Disponible en :Demi Pension",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_401/"
+    },
+    {
+        "Name": "The Residence Douz",
+        "Price": "713",
+        "Location": "Douz",
+        "Stars": "",
+        "Type": "Disponible en :Petit Dejeuner",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_798/"
+    },
+    {
+        "Name": "El Mouradi Douz",
+        "Price": "103",
+        "Location": "Douz",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_71/"
+    },
+    {
+        "Name": "Sahara Douz",
+        "Price": "126",
+        "Location": "Douz",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_336/"
+    },
+    {
+        "Name": "Bizerta Resort",
+        "Price": "131",
+        "Location": "Bizerte",
+        "Stars": "",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_513/"
+    },
+    {
+        "Name": "Nour Congress & Resort",
+        "Price": "78",
+        "Location": "Bizerte",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete, All Inclusive Soft",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_519/"
+    },
+    {
+        "Name": "El Mouradi Hammam Bourguiba",
+        "Price": "132",
+        "Location": "Ain draham",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_72/"
+    },
+    {
+        "Name": "Dar Ismail Nour Elain",
+        "Price": "91",
+        "Location": "Ain draham",
+        "Stars": "Moyen",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_325/"
+    },
+    {
+        "Name": "Oasis Gabes",
+        "Price": "132",
+        "Location": "Gabes",
+        "Stars": "",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_878/"
+    },
+    {
+        "Name": "Sufetula",
+        "Price": "83",
+        "Location": "Sbeitla",
+        "Stars": "",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_453/"
+    },
+    {
+        "Name": "Julius",
+        "Price": "102",
+        "Location": "El_jem",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_536/"
+    },
+    {
+        "Name": "Golden Yasmine La Kasbah",
+        "Price": "186",
+        "Location": "Kairouan",
+        "Stars": "Très Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_452/"
+    },
+    {
+        "Name": "Continental",
+        "Price": "150",
+        "Location": "Kairouan",
+        "Stars": "Bien",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_497/"
+    },
+    {
+        "Name": "Fzawa Camp",
+        "Price": "231",
+        "Location": "Ksar_ghilane",
+        "Stars": "Excellent",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_886/"
+    },
+    {
+        "Name": "Jugurtha Palace",
+        "Price": "90",
+        "Location": "Gafsa",
+        "Stars": "",
+        "Type": "Disponible en :Petit Dejeuner, Demi Pension, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_618/"
+    },
+    {
+        "Name": "Al Rayen Tataouine",
+        "Price": "110",
+        "Location": "Tataouine",
+        "Stars": "",
+        "Type": "Disponible en :Petit Dejeuner, Pension complete",
+        "Link": "https://tn.tunisiebooking.com/detail_hotel_725/"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hôtel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Disponible uniquement chez Traveltodo // 1er enfant -4ans/n'accepte pas les célibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note//",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "Movenpick Resort & Marine SPA",
+        "Price": "130",
+        "Location": "Sousse",
+        "Stars": "5",
+        "Type": "1er enfant -7 ans Gratuit /N'accepte pas 3 Adultes dans la même chambre/Burkini interdit.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/movenpick-resort-marine-spa-1170.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable - 1er enf - 12 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Magnifique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 12 ans gratuit du 21/12 au 03/01  hors dîner saint sylvestre",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "Rosa Beach Thalasso & Spa",
+        "Price": "95",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/rosa-beach-thalasso-spa-1249.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Promo",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Hotel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Nouveau  // Pieds dans l'eau // disponible uniquement chez Traveltodo// enfant -4ans",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Azur Hotel  Thalassa",
+        "Price": "199",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // enfant -3 ans gratuit avec 2 adultes",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-azur-hotel-thalassa-2127.html"
+    },
+    {
+        "Name": "THE RUSSELIOR HOTEL & SPA",
+        "Price": "123",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Très bonne note // 1er enfant -3ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/the-russelior-hotel-spa-1225.html"
+    },
+    {
+        "Name": "Le Royal Hammamet",
+        "Price": "110",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/le-royal-hammamet-483.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "HOTEL ALHAMBRA THALASSO",
+        "Price": "91",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-alhambra-thalasso-857.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hotel Royal Jinen",
+        "Price": "63",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -6 ans gratuit/ N'accepte pas les jeunes célibataire",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/hotel-royal-jinen-1428.html"
+    },
+    {
+        "Name": "Orient Palace",
+        "Price": "65",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Hotel sans alcool  / 1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/orient-palace-1350.html"
+    },
+    {
+        "Name": "Seabel Alhambra Beach Golf & Spa",
+        "Price": "90",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Chambre double =Bungalow//La Chambre Supérieure est au Bloc Central//COUPLES & FAMILLES UNIQUEMENT.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/seabel-alhambra-beach-golf-spa-1093.html"
+    },
+    {
+        "Name": "Marhaba Club",
+        "Price": "78",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Interdit aux celibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/marhaba-club-1757.html"
+    },
+    {
+        "Name": "EL Ksar Resort & Thalasso",
+        "Price": "93",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "(pas de celibataire) / Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/el-ksar-resort-thalasso-1261.html"
+    },
+    {
+        "Name": "Occidental Sousse Marhaba",
+        "Price": "96",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -5 ans gratuit/ Seulement les familles et les couples sont acceptées.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/occidental-sousse-marhaba-1790.html"
+    },
+    {
+        "Name": "Amir Palace",
+        "Price": "58",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Hotel sans alcool",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/amir-palace-876.html"
+    },
+    {
+        "Name": "Delphin El Habib & Ribat",
+        "Price": "60",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/delphin-el-habib-ribat-1003.html"
+    },
+    {
+        "Name": "Skanes Serail",
+        "Price": "120",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/skanes-serail-1004.html"
+    },
+    {
+        "Name": "HILTON SKANES MONASTIR BEACH RESORT",
+        "Price": "132",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/hilton-skanes-monastir-beach-resort-2135.html"
+    },
+    {
+        "Name": "Royal Thalassa Monastir",
+        "Price": "123",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Profitez  de notre vente flash & Offrez-vous un réel moment de bien-être dans un centre unique en Tunisie ! 'ROYAL ELYSSA THALASSO & SPA ' créateur de Sens .",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/royal-thalassa-monastir-901.html"
+    },
+    {
+        "Name": "Iberostar Selection Kuriat Palace",
+        "Price": "183",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/iberostar-selection-kuriat-palace-1915.html"
+    },
+    {
+        "Name": "Thapsus Beach Resort",
+        "Price": "64",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/thapsus-beach-resort-1519.html"
+    },
+    {
+        "Name": "Hotel Résidence El Fatimi",
+        "Price": "70",
+        "Location": "Mahdia",
+        "Stars": "3",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-residence-el-fatimi-2136.html"
+    },
+    {
+        "Name": "Mahdia Beach & Aquapark",
+        "Price": "117",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-beach-aquapark-1501.html"
+    },
+    {
+        "Name": "Mahdia Palace & Thalasso",
+        "Price": "110",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-palace-thalasso-1069.html"
+    },
+    {
+        "Name": "Hôtel Nour Palace & Thalasso",
+        "Price": "213",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-nour-palace-thalasso-1068.html"
+    },
+    {
+        "Name": "Iberostar Royal El Mansour",
+        "Price": "152",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/iberostar-royal-el-mansour-1244.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 4 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "La Cigale",
+        "Price": "228",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "Luxe/ Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/la-cigale-1513.html"
+    },
+    {
+        "Name": "Joya Paradise",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "confort -  Enf - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/joya-paradise-1682.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "charmant",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Hasdrubal Prestige Thalassa & SPA Djerba",
+        "Price": "242",
+        "Location": "Djerba",
+        "Stars": "5",
+        "Type": "Early Booking - 15% - Unique -Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/hasdrubal-prestige-thalassa-spa-djerba-1048.html"
+    },
+    {
+        "Name": "Djerba Sun Beach",
+        "Price": "103",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable -Bon emplacement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/djerba-sun-beach-1087.html"
+    },
+    {
+        "Name": "Hotel Meninx",
+        "Price": "119",
+        "Location": "Djerba",
+        "Stars": "3",
+        "Type": "Pieds dans l'eau -Enf -6ans gratuit/ familles et couples seulement",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/djerba/hotel-club-meninx-1482.html"
+    },
+    {
+        "Name": "Riad Meninx",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Confort - 1er enfant -6 ans gratuit / familles & couples seulement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/riad-meninx-1737.html"
+    },
+    {
+        "Name": "Anantara Tozeur Resort",
+        "Price": "564",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Super Promo jusqu'à - 25 % - Enf - 6 ans gratuit - Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/anantara-tozeur-resort-1777.html"
+    },
+    {
+        "Name": "Golden yasmin Ras el Ain",
+        "Price": "118",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/golden-yasmin-ras-el-ain-1362.html"
+    },
+    {
+        "Name": "El Mouradi Tozeur",
+        "Price": "122",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/el-mouradi-tozeur-736.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Palm Beach Palace Tozeur",
+        "Price": "195",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Ce prix pourra subir des changements -- Le prix exact sera communiqué lors de la prise en charge de la réservation de la part de l'un de nos conseillers de voyage",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/palm-beach-palace-tozeur-609.html"
+    },
+    {
+        "Name": "El Mouradi Douz",
+        "Price": "107",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/el-mouradi-douz-700.html"
+    },
+    {
+        "Name": "Golden Yasmin Sun Palm",
+        "Price": "144",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/golden-yasmin-sun-palm-1360.html"
+    },
+    {
+        "Name": "Sahara Douz",
+        "Price": "112",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Bonne note/Hôtel n'accepte pas les jeunes célibataires",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/sahara-douz-1164.html"
+    },
+    {
+        "Name": "The Residence Douz",
+        "Price": "365",
+        "Location": "Douz",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // Enfant -6 ans est gratuit",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/the-residence-douz-2189.html"
+    },
+    {
+        "Name": "Offra Douz",
+        "Price": "96",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/offra-douz-1666.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hôtel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Disponible uniquement chez Traveltodo // 1er enfant -4ans/n'accepte pas les célibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note//",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "Movenpick Resort & Marine SPA",
+        "Price": "130",
+        "Location": "Sousse",
+        "Stars": "5",
+        "Type": "1er enfant -7 ans Gratuit /N'accepte pas 3 Adultes dans la même chambre/Burkini interdit.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/movenpick-resort-marine-spa-1170.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable - 1er enf - 12 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Magnifique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 12 ans gratuit du 21/12 au 03/01  hors dîner saint sylvestre",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "Rosa Beach Thalasso & Spa",
+        "Price": "95",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/rosa-beach-thalasso-spa-1249.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Promo",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Hotel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Nouveau  // Pieds dans l'eau // disponible uniquement chez Traveltodo// enfant -4ans",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Azur Hotel  Thalassa",
+        "Price": "199",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // enfant -3 ans gratuit avec 2 adultes",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-azur-hotel-thalassa-2127.html"
+    },
+    {
+        "Name": "THE RUSSELIOR HOTEL & SPA",
+        "Price": "123",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Très bonne note // 1er enfant -3ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/the-russelior-hotel-spa-1225.html"
+    },
+    {
+        "Name": "Le Royal Hammamet",
+        "Price": "110",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/le-royal-hammamet-483.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "HOTEL ALHAMBRA THALASSO",
+        "Price": "91",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-alhambra-thalasso-857.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hotel Royal Jinen",
+        "Price": "63",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -6 ans gratuit/ N'accepte pas les jeunes célibataire",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/hotel-royal-jinen-1428.html"
+    },
+    {
+        "Name": "Orient Palace",
+        "Price": "65",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Hotel sans alcool  / 1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/orient-palace-1350.html"
+    },
+    {
+        "Name": "Seabel Alhambra Beach Golf & Spa",
+        "Price": "90",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Chambre double =Bungalow//La Chambre Supérieure est au Bloc Central//COUPLES & FAMILLES UNIQUEMENT.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/seabel-alhambra-beach-golf-spa-1093.html"
+    },
+    {
+        "Name": "Marhaba Club",
+        "Price": "78",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Interdit aux celibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/marhaba-club-1757.html"
+    },
+    {
+        "Name": "EL Ksar Resort & Thalasso",
+        "Price": "93",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "(pas de celibataire) / Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/el-ksar-resort-thalasso-1261.html"
+    },
+    {
+        "Name": "Occidental Sousse Marhaba",
+        "Price": "96",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -5 ans gratuit/ Seulement les familles et les couples sont acceptées.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/occidental-sousse-marhaba-1790.html"
+    },
+    {
+        "Name": "Amir Palace",
+        "Price": "58",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Hotel sans alcool",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/amir-palace-876.html"
+    },
+    {
+        "Name": "Delphin El Habib & Ribat",
+        "Price": "60",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/delphin-el-habib-ribat-1003.html"
+    },
+    {
+        "Name": "Skanes Serail",
+        "Price": "120",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/skanes-serail-1004.html"
+    },
+    {
+        "Name": "HILTON SKANES MONASTIR BEACH RESORT",
+        "Price": "132",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/hilton-skanes-monastir-beach-resort-2135.html"
+    },
+    {
+        "Name": "Royal Thalassa Monastir",
+        "Price": "123",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Profitez  de notre vente flash & Offrez-vous un réel moment de bien-être dans un centre unique en Tunisie ! 'ROYAL ELYSSA THALASSO & SPA ' créateur de Sens .",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/royal-thalassa-monastir-901.html"
+    },
+    {
+        "Name": "Iberostar Selection Kuriat Palace",
+        "Price": "183",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/iberostar-selection-kuriat-palace-1915.html"
+    },
+    {
+        "Name": "Thapsus Beach Resort",
+        "Price": "64",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/thapsus-beach-resort-1519.html"
+    },
+    {
+        "Name": "Hotel Résidence El Fatimi",
+        "Price": "70",
+        "Location": "Mahdia",
+        "Stars": "3",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-residence-el-fatimi-2136.html"
+    },
+    {
+        "Name": "Mahdia Beach & Aquapark",
+        "Price": "117",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-beach-aquapark-1501.html"
+    },
+    {
+        "Name": "Mahdia Palace & Thalasso",
+        "Price": "110",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-palace-thalasso-1069.html"
+    },
+    {
+        "Name": "Hôtel Nour Palace & Thalasso",
+        "Price": "213",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-nour-palace-thalasso-1068.html"
+    },
+    {
+        "Name": "Iberostar Royal El Mansour",
+        "Price": "152",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/iberostar-royal-el-mansour-1244.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 4 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "La Cigale",
+        "Price": "228",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "Luxe/ Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/la-cigale-1513.html"
+    },
+    {
+        "Name": "Joya Paradise",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "confort -  Enf - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/joya-paradise-1682.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "charmant",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Hasdrubal Prestige Thalassa & SPA Djerba",
+        "Price": "242",
+        "Location": "Djerba",
+        "Stars": "5",
+        "Type": "Early Booking - 15% - Unique -Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/hasdrubal-prestige-thalassa-spa-djerba-1048.html"
+    },
+    {
+        "Name": "Djerba Sun Beach",
+        "Price": "103",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable -Bon emplacement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/djerba-sun-beach-1087.html"
+    },
+    {
+        "Name": "Hotel Meninx",
+        "Price": "119",
+        "Location": "Djerba",
+        "Stars": "3",
+        "Type": "Pieds dans l'eau -Enf -6ans gratuit/ familles et couples seulement",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/djerba/hotel-club-meninx-1482.html"
+    },
+    {
+        "Name": "Riad Meninx",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Confort - 1er enfant -6 ans gratuit / familles & couples seulement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/riad-meninx-1737.html"
+    },
+    {
+        "Name": "Anantara Tozeur Resort",
+        "Price": "564",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Super Promo jusqu'à - 25 % - Enf - 6 ans gratuit - Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/anantara-tozeur-resort-1777.html"
+    },
+    {
+        "Name": "Golden yasmin Ras el Ain",
+        "Price": "118",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/golden-yasmin-ras-el-ain-1362.html"
+    },
+    {
+        "Name": "El Mouradi Tozeur",
+        "Price": "122",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/el-mouradi-tozeur-736.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Palm Beach Palace Tozeur",
+        "Price": "195",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Ce prix pourra subir des changements -- Le prix exact sera communiqué lors de la prise en charge de la réservation de la part de l'un de nos conseillers de voyage",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/palm-beach-palace-tozeur-609.html"
+    },
+    {
+        "Name": "El Mouradi Douz",
+        "Price": "107",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/el-mouradi-douz-700.html"
+    },
+    {
+        "Name": "Golden Yasmin Sun Palm",
+        "Price": "144",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/golden-yasmin-sun-palm-1360.html"
+    },
+    {
+        "Name": "Sahara Douz",
+        "Price": "112",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Bonne note/Hôtel n'accepte pas les jeunes célibataires",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/sahara-douz-1164.html"
+    },
+    {
+        "Name": "The Residence Douz",
+        "Price": "365",
+        "Location": "Douz",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // Enfant -6 ans est gratuit",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/the-residence-douz-2189.html"
+    },
+    {
+        "Name": "Offra Douz",
+        "Price": "96",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/offra-douz-1666.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hôtel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Disponible uniquement chez Traveltodo // 1er enfant -4ans/n'accepte pas les célibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note//",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "Movenpick Resort & Marine SPA",
+        "Price": "130",
+        "Location": "Sousse",
+        "Stars": "5",
+        "Type": "1er enfant -7 ans Gratuit /N'accepte pas 3 Adultes dans la même chambre/Burkini interdit.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/movenpick-resort-marine-spa-1170.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable - 1er enf - 12 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Magnifique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 12 ans gratuit du 21/12 au 03/01  hors dîner saint sylvestre",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "Rosa Beach Thalasso & Spa",
+        "Price": "95",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/rosa-beach-thalasso-spa-1249.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Promo",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Hotel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Nouveau  // Pieds dans l'eau // disponible uniquement chez Traveltodo// enfant -4ans",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Azur Hotel  Thalassa",
+        "Price": "199",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // enfant -3 ans gratuit avec 2 adultes",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-azur-hotel-thalassa-2127.html"
+    },
+    {
+        "Name": "THE RUSSELIOR HOTEL & SPA",
+        "Price": "123",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Très bonne note // 1er enfant -3ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/the-russelior-hotel-spa-1225.html"
+    },
+    {
+        "Name": "Le Royal Hammamet",
+        "Price": "110",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/le-royal-hammamet-483.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "HOTEL ALHAMBRA THALASSO",
+        "Price": "91",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-alhambra-thalasso-857.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hotel Royal Jinen",
+        "Price": "63",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -6 ans gratuit/ N'accepte pas les jeunes célibataire",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/hotel-royal-jinen-1428.html"
+    },
+    {
+        "Name": "Orient Palace",
+        "Price": "65",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Hotel sans alcool  / 1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/orient-palace-1350.html"
+    },
+    {
+        "Name": "Seabel Alhambra Beach Golf & Spa",
+        "Price": "90",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Chambre double =Bungalow//La Chambre Supérieure est au Bloc Central//COUPLES & FAMILLES UNIQUEMENT.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/seabel-alhambra-beach-golf-spa-1093.html"
+    },
+    {
+        "Name": "Marhaba Club",
+        "Price": "78",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Interdit aux celibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/marhaba-club-1757.html"
+    },
+    {
+        "Name": "EL Ksar Resort & Thalasso",
+        "Price": "93",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "(pas de celibataire) / Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/el-ksar-resort-thalasso-1261.html"
+    },
+    {
+        "Name": "Occidental Sousse Marhaba",
+        "Price": "96",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -5 ans gratuit/ Seulement les familles et les couples sont acceptées.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/occidental-sousse-marhaba-1790.html"
+    },
+    {
+        "Name": "Amir Palace",
+        "Price": "58",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Hotel sans alcool",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/amir-palace-876.html"
+    },
+    {
+        "Name": "Delphin El Habib & Ribat",
+        "Price": "60",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/delphin-el-habib-ribat-1003.html"
+    },
+    {
+        "Name": "Skanes Serail",
+        "Price": "120",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/skanes-serail-1004.html"
+    },
+    {
+        "Name": "HILTON SKANES MONASTIR BEACH RESORT",
+        "Price": "132",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/hilton-skanes-monastir-beach-resort-2135.html"
+    },
+    {
+        "Name": "Royal Thalassa Monastir",
+        "Price": "123",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Profitez  de notre vente flash & Offrez-vous un réel moment de bien-être dans un centre unique en Tunisie ! 'ROYAL ELYSSA THALASSO & SPA ' créateur de Sens .",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/royal-thalassa-monastir-901.html"
+    },
+    {
+        "Name": "Iberostar Selection Kuriat Palace",
+        "Price": "183",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/iberostar-selection-kuriat-palace-1915.html"
+    },
+    {
+        "Name": "Thapsus Beach Resort",
+        "Price": "64",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/thapsus-beach-resort-1519.html"
+    },
+    {
+        "Name": "Hotel Résidence El Fatimi",
+        "Price": "70",
+        "Location": "Mahdia",
+        "Stars": "3",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-residence-el-fatimi-2136.html"
+    },
+    {
+        "Name": "Mahdia Beach & Aquapark",
+        "Price": "117",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-beach-aquapark-1501.html"
+    },
+    {
+        "Name": "Mahdia Palace & Thalasso",
+        "Price": "110",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-palace-thalasso-1069.html"
+    },
+    {
+        "Name": "Hôtel Nour Palace & Thalasso",
+        "Price": "213",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-nour-palace-thalasso-1068.html"
+    },
+    {
+        "Name": "Iberostar Royal El Mansour",
+        "Price": "152",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/iberostar-royal-el-mansour-1244.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 4 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "La Cigale",
+        "Price": "228",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "Luxe/ Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/la-cigale-1513.html"
+    },
+    {
+        "Name": "Joya Paradise",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "confort -  Enf - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/joya-paradise-1682.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "charmant",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Hasdrubal Prestige Thalassa & SPA Djerba",
+        "Price": "242",
+        "Location": "Djerba",
+        "Stars": "5",
+        "Type": "Early Booking - 15% - Unique -Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/hasdrubal-prestige-thalassa-spa-djerba-1048.html"
+    },
+    {
+        "Name": "Djerba Sun Beach",
+        "Price": "103",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable -Bon emplacement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/djerba-sun-beach-1087.html"
+    },
+    {
+        "Name": "Hotel Meninx",
+        "Price": "119",
+        "Location": "Djerba",
+        "Stars": "3",
+        "Type": "Pieds dans l'eau -Enf -6ans gratuit/ familles et couples seulement",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/djerba/hotel-club-meninx-1482.html"
+    },
+    {
+        "Name": "Riad Meninx",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Confort - 1er enfant -6 ans gratuit / familles & couples seulement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/riad-meninx-1737.html"
+    },
+    {
+        "Name": "Anantara Tozeur Resort",
+        "Price": "564",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Super Promo jusqu'à - 25 % - Enf - 6 ans gratuit - Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/anantara-tozeur-resort-1777.html"
+    },
+    {
+        "Name": "Golden yasmin Ras el Ain",
+        "Price": "118",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/golden-yasmin-ras-el-ain-1362.html"
+    },
+    {
+        "Name": "El Mouradi Tozeur",
+        "Price": "122",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/el-mouradi-tozeur-736.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Palm Beach Palace Tozeur",
+        "Price": "195",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Ce prix pourra subir des changements -- Le prix exact sera communiqué lors de la prise en charge de la réservation de la part de l'un de nos conseillers de voyage",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/palm-beach-palace-tozeur-609.html"
+    },
+    {
+        "Name": "El Mouradi Douz",
+        "Price": "107",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/el-mouradi-douz-700.html"
+    },
+    {
+        "Name": "Golden Yasmin Sun Palm",
+        "Price": "144",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/golden-yasmin-sun-palm-1360.html"
+    },
+    {
+        "Name": "Sahara Douz",
+        "Price": "112",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Bonne note/Hôtel n'accepte pas les jeunes célibataires",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/sahara-douz-1164.html"
+    },
+    {
+        "Name": "The Residence Douz",
+        "Price": "365",
+        "Location": "Douz",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // Enfant -6 ans est gratuit",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/the-residence-douz-2189.html"
+    },
+    {
+        "Name": "Offra Douz",
+        "Price": "96",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/offra-douz-1666.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hôtel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Disponible uniquement chez Traveltodo // 1er enfant -4ans/n'accepte pas les célibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note//",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "Movenpick Resort & Marine SPA",
+        "Price": "130",
+        "Location": "Sousse",
+        "Stars": "5",
+        "Type": "1er enfant -7 ans Gratuit /N'accepte pas 3 Adultes dans la même chambre/Burkini interdit.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/movenpick-resort-marine-spa-1170.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable - 1er enf - 12 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Magnifique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 12 ans gratuit du 21/12 au 03/01  hors dîner saint sylvestre",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "Rosa Beach Thalasso & Spa",
+        "Price": "95",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/rosa-beach-thalasso-spa-1249.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Promo",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Hotel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Nouveau  // Pieds dans l'eau // disponible uniquement chez Traveltodo// enfant -4ans",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Azur Hotel  Thalassa",
+        "Price": "199",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // enfant -3 ans gratuit avec 2 adultes",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-azur-hotel-thalassa-2127.html"
+    },
+    {
+        "Name": "THE RUSSELIOR HOTEL & SPA",
+        "Price": "123",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Très bonne note // 1er enfant -3ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/the-russelior-hotel-spa-1225.html"
+    },
+    {
+        "Name": "Le Royal Hammamet",
+        "Price": "110",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/le-royal-hammamet-483.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "HOTEL ALHAMBRA THALASSO",
+        "Price": "91",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-alhambra-thalasso-857.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hotel Royal Jinen",
+        "Price": "63",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -6 ans gratuit/ N'accepte pas les jeunes célibataire",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/hotel-royal-jinen-1428.html"
+    },
+    {
+        "Name": "Orient Palace",
+        "Price": "65",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Hotel sans alcool  / 1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/orient-palace-1350.html"
+    },
+    {
+        "Name": "Seabel Alhambra Beach Golf & Spa",
+        "Price": "90",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Chambre double =Bungalow//La Chambre Supérieure est au Bloc Central//COUPLES & FAMILLES UNIQUEMENT.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/seabel-alhambra-beach-golf-spa-1093.html"
+    },
+    {
+        "Name": "Marhaba Club",
+        "Price": "78",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Interdit aux celibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/marhaba-club-1757.html"
+    },
+    {
+        "Name": "EL Ksar Resort & Thalasso",
+        "Price": "93",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "(pas de celibataire) / Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/el-ksar-resort-thalasso-1261.html"
+    },
+    {
+        "Name": "Occidental Sousse Marhaba",
+        "Price": "96",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -5 ans gratuit/ Seulement les familles et les couples sont acceptées.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/occidental-sousse-marhaba-1790.html"
+    },
+    {
+        "Name": "Amir Palace",
+        "Price": "58",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Hotel sans alcool",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/amir-palace-876.html"
+    },
+    {
+        "Name": "Delphin El Habib & Ribat",
+        "Price": "60",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/delphin-el-habib-ribat-1003.html"
+    },
+    {
+        "Name": "Skanes Serail",
+        "Price": "120",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/skanes-serail-1004.html"
+    },
+    {
+        "Name": "HILTON SKANES MONASTIR BEACH RESORT",
+        "Price": "132",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/hilton-skanes-monastir-beach-resort-2135.html"
+    },
+    {
+        "Name": "Royal Thalassa Monastir",
+        "Price": "123",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Profitez  de notre vente flash & Offrez-vous un réel moment de bien-être dans un centre unique en Tunisie ! 'ROYAL ELYSSA THALASSO & SPA ' créateur de Sens .",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/royal-thalassa-monastir-901.html"
+    },
+    {
+        "Name": "Iberostar Selection Kuriat Palace",
+        "Price": "183",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/iberostar-selection-kuriat-palace-1915.html"
+    },
+    {
+        "Name": "Thapsus Beach Resort",
+        "Price": "64",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/thapsus-beach-resort-1519.html"
+    },
+    {
+        "Name": "Hotel Résidence El Fatimi",
+        "Price": "70",
+        "Location": "Mahdia",
+        "Stars": "3",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-residence-el-fatimi-2136.html"
+    },
+    {
+        "Name": "Mahdia Beach & Aquapark",
+        "Price": "117",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-beach-aquapark-1501.html"
+    },
+    {
+        "Name": "Mahdia Palace & Thalasso",
+        "Price": "110",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-palace-thalasso-1069.html"
+    },
+    {
+        "Name": "Hôtel Nour Palace & Thalasso",
+        "Price": "213",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-nour-palace-thalasso-1068.html"
+    },
+    {
+        "Name": "Iberostar Royal El Mansour",
+        "Price": "152",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/iberostar-royal-el-mansour-1244.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 4 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "La Cigale",
+        "Price": "228",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "Luxe/ Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/la-cigale-1513.html"
+    },
+    {
+        "Name": "Joya Paradise",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "confort -  Enf - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/joya-paradise-1682.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "charmant",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Hasdrubal Prestige Thalassa & SPA Djerba",
+        "Price": "242",
+        "Location": "Djerba",
+        "Stars": "5",
+        "Type": "Early Booking - 15% - Unique -Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/hasdrubal-prestige-thalassa-spa-djerba-1048.html"
+    },
+    {
+        "Name": "Djerba Sun Beach",
+        "Price": "103",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable -Bon emplacement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/djerba-sun-beach-1087.html"
+    },
+    {
+        "Name": "Hotel Meninx",
+        "Price": "119",
+        "Location": "Djerba",
+        "Stars": "3",
+        "Type": "Pieds dans l'eau -Enf -6ans gratuit/ familles et couples seulement",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/djerba/hotel-club-meninx-1482.html"
+    },
+    {
+        "Name": "Riad Meninx",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Confort - 1er enfant -6 ans gratuit / familles & couples seulement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/riad-meninx-1737.html"
+    },
+    {
+        "Name": "Anantara Tozeur Resort",
+        "Price": "564",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Super Promo jusqu'à - 25 % - Enf - 6 ans gratuit - Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/anantara-tozeur-resort-1777.html"
+    },
+    {
+        "Name": "Golden yasmin Ras el Ain",
+        "Price": "118",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/golden-yasmin-ras-el-ain-1362.html"
+    },
+    {
+        "Name": "El Mouradi Tozeur",
+        "Price": "122",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/el-mouradi-tozeur-736.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Palm Beach Palace Tozeur",
+        "Price": "195",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Ce prix pourra subir des changements -- Le prix exact sera communiqué lors de la prise en charge de la réservation de la part de l'un de nos conseillers de voyage",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/palm-beach-palace-tozeur-609.html"
+    },
+    {
+        "Name": "El Mouradi Douz",
+        "Price": "107",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/el-mouradi-douz-700.html"
+    },
+    {
+        "Name": "Golden Yasmin Sun Palm",
+        "Price": "144",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/golden-yasmin-sun-palm-1360.html"
+    },
+    {
+        "Name": "Sahara Douz",
+        "Price": "112",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Bonne note/Hôtel n'accepte pas les jeunes célibataires",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/sahara-douz-1164.html"
+    },
+    {
+        "Name": "The Residence Douz",
+        "Price": "365",
+        "Location": "Douz",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // Enfant -6 ans est gratuit",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/the-residence-douz-2189.html"
+    },
+    {
+        "Name": "Offra Douz",
+        "Price": "96",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/offra-douz-1666.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hôtel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Disponible uniquement chez Traveltodo // 1er enfant -4ans/n'accepte pas les célibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note//",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "Movenpick Resort & Marine SPA",
+        "Price": "130",
+        "Location": "Sousse",
+        "Stars": "5",
+        "Type": "1er enfant -7 ans Gratuit /N'accepte pas 3 Adultes dans la même chambre/Burkini interdit.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/movenpick-resort-marine-spa-1170.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable - 1er enf - 12 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Magnifique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 12 ans gratuit du 21/12 au 03/01  hors dîner saint sylvestre",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "Rosa Beach Thalasso & Spa",
+        "Price": "95",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/rosa-beach-thalasso-spa-1249.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Promo",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Hotel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Nouveau  // Pieds dans l'eau // disponible uniquement chez Traveltodo// enfant -4ans",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Azur Hotel  Thalassa",
+        "Price": "199",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // enfant -3 ans gratuit avec 2 adultes",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-azur-hotel-thalassa-2127.html"
+    },
+    {
+        "Name": "THE RUSSELIOR HOTEL & SPA",
+        "Price": "123",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Très bonne note // 1er enfant -3ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/the-russelior-hotel-spa-1225.html"
+    },
+    {
+        "Name": "Le Royal Hammamet",
+        "Price": "110",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/le-royal-hammamet-483.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "HOTEL ALHAMBRA THALASSO",
+        "Price": "91",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-alhambra-thalasso-857.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hotel Royal Jinen",
+        "Price": "63",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -6 ans gratuit/ N'accepte pas les jeunes célibataire",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/hotel-royal-jinen-1428.html"
+    },
+    {
+        "Name": "Orient Palace",
+        "Price": "65",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Hotel sans alcool  / 1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/orient-palace-1350.html"
+    },
+    {
+        "Name": "Seabel Alhambra Beach Golf & Spa",
+        "Price": "90",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Chambre double =Bungalow//La Chambre Supérieure est au Bloc Central//COUPLES & FAMILLES UNIQUEMENT.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/seabel-alhambra-beach-golf-spa-1093.html"
+    },
+    {
+        "Name": "Marhaba Club",
+        "Price": "78",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Interdit aux celibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/marhaba-club-1757.html"
+    },
+    {
+        "Name": "EL Ksar Resort & Thalasso",
+        "Price": "93",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "(pas de celibataire) / Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/el-ksar-resort-thalasso-1261.html"
+    },
+    {
+        "Name": "Occidental Sousse Marhaba",
+        "Price": "96",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -5 ans gratuit/ Seulement les familles et les couples sont acceptées.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/occidental-sousse-marhaba-1790.html"
+    },
+    {
+        "Name": "Amir Palace",
+        "Price": "58",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Hotel sans alcool",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/amir-palace-876.html"
+    },
+    {
+        "Name": "Delphin El Habib & Ribat",
+        "Price": "60",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/delphin-el-habib-ribat-1003.html"
+    },
+    {
+        "Name": "Skanes Serail",
+        "Price": "120",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/skanes-serail-1004.html"
+    },
+    {
+        "Name": "HILTON SKANES MONASTIR BEACH RESORT",
+        "Price": "132",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/hilton-skanes-monastir-beach-resort-2135.html"
+    },
+    {
+        "Name": "Royal Thalassa Monastir",
+        "Price": "123",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Profitez  de notre vente flash & Offrez-vous un réel moment de bien-être dans un centre unique en Tunisie ! 'ROYAL ELYSSA THALASSO & SPA ' créateur de Sens .",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/royal-thalassa-monastir-901.html"
+    },
+    {
+        "Name": "Iberostar Selection Kuriat Palace",
+        "Price": "183",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/iberostar-selection-kuriat-palace-1915.html"
+    },
+    {
+        "Name": "Thapsus Beach Resort",
+        "Price": "64",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/thapsus-beach-resort-1519.html"
+    },
+    {
+        "Name": "Hotel Résidence El Fatimi",
+        "Price": "70",
+        "Location": "Mahdia",
+        "Stars": "3",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-residence-el-fatimi-2136.html"
+    },
+    {
+        "Name": "Mahdia Beach & Aquapark",
+        "Price": "117",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-beach-aquapark-1501.html"
+    },
+    {
+        "Name": "Mahdia Palace & Thalasso",
+        "Price": "110",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-palace-thalasso-1069.html"
+    },
+    {
+        "Name": "Hôtel Nour Palace & Thalasso",
+        "Price": "213",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-nour-palace-thalasso-1068.html"
+    },
+    {
+        "Name": "Iberostar Royal El Mansour",
+        "Price": "152",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/iberostar-royal-el-mansour-1244.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 4 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "La Cigale",
+        "Price": "228",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "Luxe/ Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/la-cigale-1513.html"
+    },
+    {
+        "Name": "Joya Paradise",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "confort -  Enf - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/joya-paradise-1682.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "charmant",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Hasdrubal Prestige Thalassa & SPA Djerba",
+        "Price": "242",
+        "Location": "Djerba",
+        "Stars": "5",
+        "Type": "Early Booking - 15% - Unique -Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/hasdrubal-prestige-thalassa-spa-djerba-1048.html"
+    },
+    {
+        "Name": "Djerba Sun Beach",
+        "Price": "103",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable -Bon emplacement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/djerba-sun-beach-1087.html"
+    },
+    {
+        "Name": "Hotel Meninx",
+        "Price": "119",
+        "Location": "Djerba",
+        "Stars": "3",
+        "Type": "Pieds dans l'eau -Enf -6ans gratuit/ familles et couples seulement",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/djerba/hotel-club-meninx-1482.html"
+    },
+    {
+        "Name": "Riad Meninx",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Confort - 1er enfant -6 ans gratuit / familles & couples seulement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/riad-meninx-1737.html"
+    },
+    {
+        "Name": "Anantara Tozeur Resort",
+        "Price": "564",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Super Promo jusqu'à - 25 % - Enf - 6 ans gratuit - Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/anantara-tozeur-resort-1777.html"
+    },
+    {
+        "Name": "Golden yasmin Ras el Ain",
+        "Price": "118",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/golden-yasmin-ras-el-ain-1362.html"
+    },
+    {
+        "Name": "El Mouradi Tozeur",
+        "Price": "122",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/el-mouradi-tozeur-736.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Palm Beach Palace Tozeur",
+        "Price": "195",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Ce prix pourra subir des changements -- Le prix exact sera communiqué lors de la prise en charge de la réservation de la part de l'un de nos conseillers de voyage",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/palm-beach-palace-tozeur-609.html"
+    },
+    {
+        "Name": "El Mouradi Douz",
+        "Price": "107",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/el-mouradi-douz-700.html"
+    },
+    {
+        "Name": "Golden Yasmin Sun Palm",
+        "Price": "144",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/golden-yasmin-sun-palm-1360.html"
+    },
+    {
+        "Name": "Sahara Douz",
+        "Price": "112",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Bonne note/Hôtel n'accepte pas les jeunes célibataires",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/sahara-douz-1164.html"
+    },
+    {
+        "Name": "The Residence Douz",
+        "Price": "365",
+        "Location": "Douz",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // Enfant -6 ans est gratuit",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/the-residence-douz-2189.html"
+    },
+    {
+        "Name": "Offra Douz",
+        "Price": "96",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/offra-douz-1666.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hôtel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Disponible uniquement chez Traveltodo // 1er enfant -4ans/n'accepte pas les célibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note//",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "Movenpick Resort & Marine SPA",
+        "Price": "130",
+        "Location": "Sousse",
+        "Stars": "5",
+        "Type": "1er enfant -7 ans Gratuit /N'accepte pas 3 Adultes dans la même chambre/Burkini interdit.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/movenpick-resort-marine-spa-1170.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable - 1er enf - 12 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Magnifique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 12 ans gratuit du 21/12 au 03/01  hors dîner saint sylvestre",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "Rosa Beach Thalasso & Spa",
+        "Price": "95",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/rosa-beach-thalasso-spa-1249.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Promo",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Hotel Amber el fell",
+        "Price": "106",
+        "Location": "Hammamet",
+        "Stars": "4",
+        "Type": "Nouveau  // Pieds dans l'eau // disponible uniquement chez Traveltodo// enfant -4ans",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-amber-el-fell-2130.html"
+    },
+    {
+        "Name": "Royal Azur Hotel  Thalassa",
+        "Price": "199",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // enfant -3 ans gratuit avec 2 adultes",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-azur-hotel-thalassa-2127.html"
+    },
+    {
+        "Name": "THE RUSSELIOR HOTEL & SPA",
+        "Price": "123",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Très bonne note // 1er enfant -3ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/the-russelior-hotel-spa-1225.html"
+    },
+    {
+        "Name": "Le Royal Hammamet",
+        "Price": "110",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/le-royal-hammamet-483.html"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan",
+        "Price": "129",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/royal-tulip-taj-sultan-1061.html"
+    },
+    {
+        "Name": "HOTEL ALHAMBRA THALASSO",
+        "Price": "91",
+        "Location": "Hammamet",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/hammamet/hotel-alhambra-thalasso-857.html"
+    },
+    {
+        "Name": "Traveltodo Village Africa Jade Thalasso",
+        "Price": "124",
+        "Location": "Korba",
+        "Stars": "4",
+        "Type": "Piscine couverte interdite à -4ans/Salle de sport interdite -18ans",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/korba/traveltodo-village-africa-jade-thalasso-1112.html"
+    },
+    {
+        "Name": "Hotel Royal Jinen",
+        "Price": "63",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -6 ans gratuit/ N'accepte pas les jeunes célibataire",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/hotel-royal-jinen-1428.html"
+    },
+    {
+        "Name": "Orient Palace",
+        "Price": "65",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Hotel sans alcool  / 1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/orient-palace-1350.html"
+    },
+    {
+        "Name": "Seabel Alhambra Beach Golf & Spa",
+        "Price": "90",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Chambre double =Bungalow//La Chambre Supérieure est au Bloc Central//COUPLES & FAMILLES UNIQUEMENT.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/seabel-alhambra-beach-golf-spa-1093.html"
+    },
+    {
+        "Name": "Marhaba Club",
+        "Price": "78",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Interdit aux celibataires",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/marhaba-club-1757.html"
+    },
+    {
+        "Name": "EL Ksar Resort & Thalasso",
+        "Price": "93",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "(pas de celibataire) / Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/el-ksar-resort-thalasso-1261.html"
+    },
+    {
+        "Name": "Occidental Sousse Marhaba",
+        "Price": "96",
+        "Location": "Sousse",
+        "Stars": "4",
+        "Type": "Promo Enf -5 ans gratuit/ Seulement les familles et les couples sont acceptées.",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/sousse/occidental-sousse-marhaba-1790.html"
+    },
+    {
+        "Name": "Amir Palace",
+        "Price": "58",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Hotel sans alcool",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/amir-palace-876.html"
+    },
+    {
+        "Name": "Delphin El Habib & Ribat",
+        "Price": "60",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/delphin-el-habib-ribat-1003.html"
+    },
+    {
+        "Name": "Skanes Serail",
+        "Price": "120",
+        "Location": "Monastir",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/skanes-serail-1004.html"
+    },
+    {
+        "Name": "HILTON SKANES MONASTIR BEACH RESORT",
+        "Price": "132",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/hilton-skanes-monastir-beach-resort-2135.html"
+    },
+    {
+        "Name": "Royal Thalassa Monastir",
+        "Price": "123",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Profitez  de notre vente flash & Offrez-vous un réel moment de bien-être dans un centre unique en Tunisie ! 'ROYAL ELYSSA THALASSO & SPA ' créateur de Sens .",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/royal-thalassa-monastir-901.html"
+    },
+    {
+        "Name": "Iberostar Selection Kuriat Palace",
+        "Price": "183",
+        "Location": "Monastir",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/monastir/iberostar-selection-kuriat-palace-1915.html"
+    },
+    {
+        "Name": "Thapsus Beach Resort",
+        "Price": "64",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "1er Enfant -6 ans Gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/thapsus-beach-resort-1519.html"
+    },
+    {
+        "Name": "Hotel Résidence El Fatimi",
+        "Price": "70",
+        "Location": "Mahdia",
+        "Stars": "3",
+        "Type": "enfant - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-residence-el-fatimi-2136.html"
+    },
+    {
+        "Name": "Mahdia Beach & Aquapark",
+        "Price": "117",
+        "Location": "Mahdia",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-beach-aquapark-1501.html"
+    },
+    {
+        "Name": "Mahdia Palace & Thalasso",
+        "Price": "110",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/mahdia-palace-thalasso-1069.html"
+    },
+    {
+        "Name": "Hôtel Nour Palace & Thalasso",
+        "Price": "213",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/hotel-nour-palace-thalasso-1068.html"
+    },
+    {
+        "Name": "Iberostar Royal El Mansour",
+        "Price": "152",
+        "Location": "Mahdia",
+        "Stars": "5",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/mahdia/iberostar-royal-el-mansour-1244.html"
+    },
+    {
+        "Name": "Golden Yasmin Mehari Tabarka",
+        "Price": "78",
+        "Location": "Tabarka",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/golden-yasmin-mehari-tabarka-1599.html"
+    },
+    {
+        "Name": "Dar Ismail Tabarka",
+        "Price": "99",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "un seul enfant avec les parents moins de 4 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/dar-ismail-tabarka-473.html"
+    },
+    {
+        "Name": "La Cigale",
+        "Price": "228",
+        "Location": "Tabarka",
+        "Stars": "5",
+        "Type": "Luxe/ Burkini Interdit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tabarka/la-cigale-1513.html"
+    },
+    {
+        "Name": "Joya Paradise",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "confort -  Enf - 6 ans gratuit",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/joya-paradise-1682.html"
+    },
+    {
+        "Name": "Le Petit  Palais & SPA",
+        "Price": "66",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "charmant",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/le-petit-palais-spa-910.html"
+    },
+    {
+        "Name": "Hasdrubal Prestige Thalassa & SPA Djerba",
+        "Price": "242",
+        "Location": "Djerba",
+        "Stars": "5",
+        "Type": "Early Booking - 15% - Unique -Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/hasdrubal-prestige-thalassa-spa-djerba-1048.html"
+    },
+    {
+        "Name": "Djerba Sun Beach",
+        "Price": "103",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Agréable -Bon emplacement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/djerba-sun-beach-1087.html"
+    },
+    {
+        "Name": "Hotel Meninx",
+        "Price": "119",
+        "Location": "Djerba",
+        "Stars": "3",
+        "Type": "Pieds dans l'eau -Enf -6ans gratuit/ familles et couples seulement",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/djerba/hotel-club-meninx-1482.html"
+    },
+    {
+        "Name": "Riad Meninx",
+        "Price": "90",
+        "Location": "Djerba",
+        "Stars": "4",
+        "Type": "Confort - 1er enfant -6 ans gratuit / familles & couples seulement",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/djerba/riad-meninx-1737.html"
+    },
+    {
+        "Name": "Anantara Tozeur Resort",
+        "Price": "564",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Super Promo jusqu'à - 25 % - Enf - 6 ans gratuit - Grand luxe",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/anantara-tozeur-resort-1777.html"
+    },
+    {
+        "Name": "Golden yasmin Ras el Ain",
+        "Price": "118",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/tozeur/golden-yasmin-ras-el-ain-1362.html"
+    },
+    {
+        "Name": "El Mouradi Tozeur",
+        "Price": "122",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/el-mouradi-tozeur-736.html"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "142",
+        "Location": "Tozeur",
+        "Stars": "4",
+        "Type": "Bonne note",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/ksar-rouge-1007.html"
+    },
+    {
+        "Name": "Palm Beach Palace Tozeur",
+        "Price": "195",
+        "Location": "Tozeur",
+        "Stars": "5",
+        "Type": "Ce prix pourra subir des changements -- Le prix exact sera communiqué lors de la prise en charge de la réservation de la part de l'un de nos conseillers de voyage",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/tozeur/palm-beach-palace-tozeur-609.html"
+    },
+    {
+        "Name": "El Mouradi Douz",
+        "Price": "107",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Standard",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/el-mouradi-douz-700.html"
+    },
+    {
+        "Name": "Golden Yasmin Sun Palm",
+        "Price": "144",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/golden-yasmin-sun-palm-1360.html"
+    },
+    {
+        "Name": "Sahara Douz",
+        "Price": "112",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "Bonne note/Hôtel n'accepte pas les jeunes célibataires",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/sahara-douz-1164.html"
+    },
+    {
+        "Name": "The Residence Douz",
+        "Price": "365",
+        "Location": "Douz",
+        "Stars": "5",
+        "Type": "Nouveau // Luxe // Enfant -6 ans est gratuit",
+        "Link": "https://www.traveltodo.comhttps://www.traveltodo.com/hotels-tunisie/douz/the-residence-douz-2189.html"
+    },
+    {
+        "Name": "Offra Douz",
+        "Price": "96",
+        "Location": "Douz",
+        "Stars": "4",
+        "Type": "authentique",
+        "Link": "https://www.traveltodo.com/hotels-tunisie/douz/offra-douz-1666.html"
+    },
+    {
+        "Name": "Hasdrubal Prestige Thalassa & Spa Djerba",
+        "Price": "246.833TND",
+        "Location": "Djerba",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Djerba/Hasdrubal-Prestige-Thalassa--Spa-Djerba/detail?¶ms=419|ND_329_18"
+    },
+    {
+        "Name": "Radisson Blu Palace Resort & Thalasso Djerba",
+        "Price": "190.667TND",
+        "Location": "Djerba",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Djerba/Radisson-Blu-Palace-Resort--Thalasso-Djerba/detail?¶ms=419|ND_130_18"
+    },
+    {
+        "Name": "Sentido Djerba Beach",
+        "Price": "108.833TND",
+        "Location": "Djerba",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Djerba/Sentido-Djerba-Beach/detail?¶ms=415|ND_1001_102"
+    },
+    {
+        "Name": "Iberostar Kantaoui Bay",
+        "Price": "148TND",
+        "Location": "Sousse",
+        "Stars": "5 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Iberostar-Kantaoui-Bay/detail?¶ms=415|ND_1348_106"
+    },
+    {
+        "Name": "Seabel Alhambra Beach Golf & Spa",
+        "Price": "90.833TND",
+        "Location": "Sousse",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Seabel-Alhambra-Beach-Golf--Spa/detail?¶ms=415|ND_1036_106"
+    },
+    {
+        "Name": "Hasdrubal Thalassa & Spa Port El Kantaoui",
+        "Price": "82.167TND",
+        "Location": "Sousse",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Hasdrubal-Thalassa--Spa-Port-El-Kantaoui/detail?¶ms=419|ND_142_34"
+    },
+    {
+        "Name": "Rosa Beach",
+        "Price": "87TND",
+        "Location": "Monastir",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Monastir/Rosa-Beach/detail?¶ms=419|ND_289_37"
+    },
+    {
+        "Name": "Hilton Skanes Monastir Beach Resort",
+        "Price": "131.167TND",
+        "Location": "Monastir",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Monastir/Hilton-Skanes-Monastir-Beach-Resort/detail?¶ms=415|ND_3766_108"
+    },
+    {
+        "Name": "Iberostar Kuriat Palace",
+        "Price": "180.667TND",
+        "Location": "Monastir",
+        "Stars": "5 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Monastir/Iberostar-Kuriat-Palace/detail?¶ms=415|ND_1345_108"
+    },
+    {
+        "Name": "Golden Yasmine Ras El Ain Tozeur",
+        "Price": "113.833TND",
+        "Location": "Tozeur",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tozeur/Golden-Yasmine-Ras-El-Ain-Tozeur/detail?¶ms=415|ND_1105_112"
+    },
+    {
+        "Name": "Anantara Tozeur Resort",
+        "Price": "503.833TND",
+        "Location": "Tozeur",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tozeur/Anantara-Tozeur-Resort/detail?¶ms=419|ND_585_47"
+    },
+    {
+        "Name": "El Mouradi Tozeur",
+        "Price": "114TND",
+        "Location": "Tozeur",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tozeur/El-Mouradi-Tozeur/detail?¶ms=245|ND_736_129"
+    },
+    {
+        "Name": "Iberostar Averroes",
+        "Price": "146.5TND",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Iberostar-Averroes/detail?¶ms=415|ND_1342_104"
+    },
+    {
+        "Name": "Hasdrubal Thalassa Hammamet",
+        "Price": "211.5TND",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner (Not Refundable)",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Hasdrubal-Thalassa-Hammamet/detail?¶ms=419|ND_291_10"
+    },
+    {
+        "Name": "Occidental Marco Polo Hammamet",
+        "Price": "97.667TND",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension Plus",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Occidental-Marco-Polo-Hammamet/detail?¶ms=415|ND_1030_104"
+    },
+    {
+        "Name": "Itropika Beach",
+        "Price": "75.5TND",
+        "Location": "Tabarka",
+        "Stars": "Étoiles non disponibles",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tabarka/Itropika-Beach/detail?¶ms=419|ND_41_33"
+    },
+    {
+        "Name": "Les Mimosas Tabarka",
+        "Price": "63.5TND",
+        "Location": "Tabarka",
+        "Stars": "3 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tabarka/Les-Mimosas-Tabarka/detail?¶ms=419|ND_386_33"
+    },
+    {
+        "Name": "La Cigale Tabarka",
+        "Price": "215TND",
+        "Location": "Tabarka",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tabarka/La-Cigale-Tabarka/detail?¶ms=415|ND_992_109"
+    },
+    {
+        "Name": "Tmk  Latrium Yasmine Hammamet",
+        "Price": "70.333TND",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Tmk--Latrium-Yasmine-Hammamet/detail?¶ms=419|ND_239_10"
+    },
+    {
+        "Name": "Oceana Hotel & Spa",
+        "Price": "116.667TND",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Oceana-Hotel--Spa/detail?¶ms=419|ND_494_10"
+    },
+    {
+        "Name": "Le Royal Hammamet",
+        "Price": "98.667TND",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Le-Royal-Hammamet/detail?¶ms=419|ND_16_10"
+    },
+    {
+        "Name": "The Russelior Hotel & Spa",
+        "Price": "133.667TND",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner (Not Refundable)",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/The-Russelior-Hotel--Spa/detail?¶ms=419|ND_67_10"
+    },
+    {
+        "Name": "Nahrawess Resort & Thalasso",
+        "Price": "67.667TND",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Nahrawess-Resort--Thalasso/detail?¶ms=415|ND_831_104"
+    },
+    {
+        "Name": "Radisson Blu Resort & Thalasso Hammamet",
+        "Price": "91.5TND",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Radisson-Blu-Resort--Thalasso-Hammamet/detail?¶ms=419|ND_46_10"
+    },
+    {
+        "Name": "Royal Tulip Korbous Bay",
+        "Price": "264.5TND",
+        "Location": "Korbous",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Korbous/Royal-Tulip-Korbous-Bay/detail?¶ms=419|ND_510_14"
+    },
+    {
+        "Name": "Golden Tulip President Hammamet",
+        "Price": "90.167TND",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Golden-Tulip-President-Hammamet/detail?¶ms=419|ND_230_10"
+    },
+    {
+        "Name": "El Ksar Resort & Thalasso",
+        "Price": "89.667TND",
+        "Location": "Sousse",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/El-Ksar-Resort--Thalasso/detail?¶ms=415|ND_846_106"
+    },
+    {
+        "Name": "Regency Tunis",
+        "Price": "154.333TND",
+        "Location": "Tunis",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tunis/Regency-Tunis/detail?¶ms=415|ND_816_110"
+    },
+    {
+        "Name": "Orient Palace",
+        "Price": "61.5TND",
+        "Location": "Sousse",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Orient-Palace/detail?¶ms=419|ND_205_34"
+    },
+    {
+        "Name": "Dar Ismail",
+        "Price": "94TND",
+        "Location": "Tabarka",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tabarka/Dar-Ismail/detail?¶ms=419|ND_110_33"
+    },
+    {
+        "Name": "Lella Baya & Thalasso",
+        "Price": "86.5TND",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Lella-Baya--Thalasso/detail?¶ms=415|ND_787_104"
+    },
+    {
+        "Name": "Riadh Palms Resort & Spa",
+        "Price": "85.5TND",
+        "Location": "Sousse",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Riadh-Palms-Resort--Spa/detail?¶ms=247|ND_897_102"
+    },
+    {
+        "Name": "Mahdia Beach & Aqua Park",
+        "Price": "90.167TND",
+        "Location": "Mahdia",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Mahdia/Mahdia-Beach--Aqua-Park/detail?¶ms=419|ND_122_35"
+    },
+    {
+        "Name": "Kanta",
+        "Price": "59.667TND",
+        "Location": "Sousse",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Kanta/detail?¶ms=419|ND_292_34"
+    },
+    {
+        "Name": "Vincci Safira Palms",
+        "Price": "81.5TND",
+        "Location": "Zarzis",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension Plus",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Zarzis/Vincci-Safira-Palms/detail?¶ms=415|ND_1078_103"
+    },
+    {
+        "Name": "El Mouradi Hammam Bourguiba",
+        "Price": "128.667",
+        "Location": "Ain draham",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Ain-draham/El-Mouradi-Hammam-Bourguiba/detail?¶ms=245|ND_721_114"
+    },
+    {
+        "Name": "El Mehdi Beach Resort (ex: Primasol El Mehdi)",
+        "Price": "159.333",
+        "Location": "Mahdia",
+        "Stars": "4 étoile(s)",
+        "Type": "Ultra All Inclusive Soft Drink",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Mahdia/El-Mehdi-Beach-Resort-ex-Primasol-El-Mehdi/detail?¶ms=415|ND_1064_111"
+    },
+    {
+        "Name": "Blue Beach Golf & Spa",
+        "Price": "87.333",
+        "Location": "Monastir",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Monastir/Blue-Beach-Golf--Spa/detail?¶ms=415|ND_4011_108"
+    },
+    {
+        "Name": "Royal Thalassa Monastir",
+        "Price": "122.167",
+        "Location": "Monastir",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner (Not Refundable)",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Monastir/Royal-Thalassa-Monastir/detail?¶ms=419|ND_58_37"
+    },
+    {
+        "Name": "Ramada Plaza By Wyndham Tunis",
+        "Price": "135.5",
+        "Location": "Gammarth",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Gammarth/Ramada-Plaza-By-Wyndham-Tunis/detail?¶ms=419|ND_113_6485"
+    },
+    {
+        "Name": "Tmk  Latrium Yasmine Hammamet",
+        "Price": "88",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Tmk--Latrium-Yasmine-Hammamet/detail?¶ms=415|ND_957_104"
+    },
+    {
+        "Name": "Ksar Rouge",
+        "Price": "140.333",
+        "Location": "Tozeur",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tozeur/Ksar-Rouge/detail?¶ms=415|ND_1176_112"
+    },
+    {
+        "Name": "Dar Khayam & Aquapark",
+        "Price": "121",
+        "Location": "Hammamet",
+        "Stars": "3 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Dar-Khayam--Aquapark/detail?¶ms=419|ND_391_10"
+    },
+    {
+        "Name": "Iberostar Diar El Andalous",
+        "Price": "137.833",
+        "Location": "Sousse",
+        "Stars": "5 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Iberostar-Diar-El-Andalous/detail?¶ms=419|ND_82_34"
+    },
+    {
+        "Name": "Rosa Beach",
+        "Price": "87",
+        "Location": "Monastir",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Monastir/Rosa-Beach/detail?¶ms=419|ND_289_37"
+    },
+    {
+        "Name": "Anantara Tozeur Resort",
+        "Price": "503.833",
+        "Location": "Tozeur",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tozeur/Anantara-Tozeur-Resort/detail?¶ms=419|ND_585_47"
+    },
+    {
+        "Name": "Business Hotel",
+        "Price": "108.333",
+        "Location": "Tunis",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Simple (Not Refundable)",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tunis/Business-Hotel/detail?¶ms=419|ND_340_32"
+    },
+    {
+        "Name": "Iberostar Averroes",
+        "Price": "146.5",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Iberostar-Averroes/detail?¶ms=419|ND_18_10"
+    },
+    {
+        "Name": "Sousse Pearl Marriott Resort & Spa",
+        "Price": "142.667",
+        "Location": "Sousse",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Sousse-Pearl-Marriott-Resort--Spa/detail?¶ms=419|ND_385_34"
+    },
+    {
+        "Name": "Barcelo Concorde Green Park Palace",
+        "Price": "106",
+        "Location": "Sousse",
+        "Stars": "5 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Barcelo-Concorde-Green-Park-Palace/detail?¶ms=415|ND_1031_106"
+    },
+    {
+        "Name": "El Mouradi Palm Marina",
+        "Price": "96.333",
+        "Location": "Sousse",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/El-Mouradi-Palm-Marina/detail?¶ms=245|ND_711_106"
+    },
+    {
+        "Name": "El Mouradi Tozeur",
+        "Price": "114",
+        "Location": "Tozeur",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tozeur/El-Mouradi-Tozeur/detail?¶ms=245|ND_736_129"
+    },
+    {
+        "Name": "The Russelior Hotel & Spa",
+        "Price": "134.333",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/The-Russelior-Hotel--Spa/detail?¶ms=415|ND_912_104"
+    },
+    {
+        "Name": "Residence Golden Yasmin Mehari Tabarka",
+        "Price": "69.333",
+        "Location": "Tabarka",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tabarka/Residence-Golden-Yasmin-Mehari-Tabarka/detail?¶ms=415|ND_1022_109"
+    },
+    {
+        "Name": "Djerba Aqua Resort",
+        "Price": "81.5",
+        "Location": "Djerba",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Djerba/Djerba-Aqua-Resort/detail?¶ms=415|ND_785_102"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan Resort",
+        "Price": "116",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Royal-Tulip-Taj-Sultan-Resort/detail?¶ms=419|ND_31_10"
+    },
+    {
+        "Name": "Tunisia Lodge",
+        "Price": "68.5",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Tunisia-Lodge/detail?¶ms=415|ND_3876_104"
+    },
+    {
+        "Name": "Itropika Beach",
+        "Price": "75.5",
+        "Location": "Tabarka",
+        "Stars": "Étoiles non disponibles",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tabarka/Itropika-Beach/detail?¶ms=419|ND_41_33"
+    },
+    {
+        "Name": "Amir Palace",
+        "Price": "56.333",
+        "Location": "Monastir",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Monastir/Amir-Palace/detail?¶ms=419|ND_204_37"
+    },
+    {
+        "Name": "Sousse Palace Hotel & Spa",
+        "Price": "116.667",
+        "Location": "Sousse",
+        "Stars": "Étoiles non disponibles",
+        "Type": "Logement Petit Déjeuner (Not Refundable)",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Sousse-Palace-Hotel--Spa/detail?¶ms=419|ND_331_34"
+    },
+    {
+        "Name": "Iberostar Kuriat Palace",
+        "Price": "196.5",
+        "Location": "Monastir",
+        "Stars": "5 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Monastir/Iberostar-Kuriat-Palace/detail?¶ms=419|ND_414_37"
+    },
+    {
+        "Name": "Vincci Saphir Palace & Spa",
+        "Price": "112.333",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Vincci-Saphir-Palace--Spa/detail?¶ms=415|ND_805_104"
+    },
+    {
+        "Name": "Menara",
+        "Price": "40.333",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Menara/detail?¶ms=415|ND_998_104"
+    },
+    {
+        "Name": "Jaz Tour Khalef",
+        "Price": "155.167",
+        "Location": "Sousse",
+        "Stars": "5 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Jaz-Tour-Khalef/detail?¶ms=415|ND_854_106"
+    },
+    {
+        "Name": "Ezzahra Dar Tunis",
+        "Price": "101",
+        "Location": "Tunis",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tunis/Ezzahra-Dar-Tunis/detail?¶ms=419|ND_224_32"
+    },
+    {
+        "Name": "Djerba Resort",
+        "Price": "115.167",
+        "Location": "Djerba",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Djerba/Djerba-Resort/detail?¶ms=419|ND_84_18"
+    },
+    {
+        "Name": "Iberostar Mehari Djerba",
+        "Price": "136.5",
+        "Location": "Djerba",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Djerba/Iberostar-Mehari-Djerba/detail?¶ms=419|ND_88_18"
+    },
+    {
+        "Name": "Eden Yasmine & Spa",
+        "Price": "94.833",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension (Not Refundable)",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Eden-Yasmine--Spa/detail?¶ms=419|ND_506_10"
+    },
+    {
+        "Name": "Khayam Garden Beach & Spa",
+        "Price": "137.5",
+        "Location": "Nabeul",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Nabeul/Khayam-Garden-Beach--Spa/detail?¶ms=415|ND_1024_105"
+    },
+    {
+        "Name": "Djerba Aqua Resort",
+        "Price": "82.167",
+        "Location": "Djerba",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Djerba/Djerba-Aqua-Resort/detail?¶ms=419|ND_390_18"
+    },
+    {
+        "Name": "Steigenberger Marhaba Thalasso",
+        "Price": "144.5",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Steigenberger-Marhaba-Thalasso/detail?¶ms=419|ND_409_10"
+    },
+    {
+        "Name": "Occidental Marco Polo Hammamet",
+        "Price": "97.667",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension Plus",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Occidental-Marco-Polo-Hammamet/detail?¶ms=415|ND_1030_104"
+    },
+    {
+        "Name": "Occidental Marco Polo Hammamet",
+        "Price": "96.333",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension plus",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Occidental-Marco-Polo-Hammamet/detail?¶ms=419|ND_37_10"
+    },
+    {
+        "Name": "Joya Paradise",
+        "Price": "88.167",
+        "Location": "Djerba",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Djerba/Joya-Paradise/detail?¶ms=419|ND_342_18"
+    },
+    {
+        "Name": "Hasdrubal Thalassa Hammamet",
+        "Price": "232.5",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Hasdrubal-Thalassa-Hammamet/detail?¶ms=415|ND_832_104"
+    },
+    {
+        "Name": "Medina Belisaire And Thalasso",
+        "Price": "80.333",
+        "Location": "Hammamet",
+        "Stars": "Étoiles non disponibles",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Medina-Belisaire-And-Thalasso/detail?¶ms=419|ND_49_10"
+    },
+    {
+        "Name": "Iberostar Selection Royal El Mansour",
+        "Price": "154.5",
+        "Location": "Mahdia",
+        "Stars": "5 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Mahdia/Iberostar-Selection-Royal-El-Mansour/detail?¶ms=419|ND_63_35"
+    },
+    {
+        "Name": "Lella Baya & Thalasso",
+        "Price": "86",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Lella-Baya--Thalasso/detail?¶ms=419|ND_375_10"
+    },
+    {
+        "Name": "El Mouradi Gammarth",
+        "Price": "148.667",
+        "Location": "Gammarth",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Seul",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Gammarth/El-Mouradi-Gammarth/detail?¶ms=245|ND_751_125"
+    },
+    {
+        "Name": "Dar Khayam",
+        "Price": "120.833",
+        "Location": "Hammamet",
+        "Stars": "3 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Dar-Khayam/detail?¶ms=415|ND_1029_104"
+    },
+    {
+        "Name": "Marina Palace",
+        "Price": "56.667",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Marina-Palace/detail?¶ms=419|ND_38_10"
+    },
+    {
+        "Name": "El Mouradi Gammarth",
+        "Price": "219.833",
+        "Location": "Gammarth",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Simple (Not Refundable)",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Tunis-gammarth/El-Mouradi-Gammarth/detail?¶ms=416|416_513_30"
+    },
+    {
+        "Name": "Radisson Blu Palace Resort & Thalasso",
+        "Price": "189",
+        "Location": "Djerba",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Djerba/Radisson-Blu-Palace-Resort--Thalasso/detail?¶ms=415|ND_821_102"
+    },
+    {
+        "Name": "El Mouradi Douz",
+        "Price": "100",
+        "Location": "Douz",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Douz/El-Mouradi-Douz/detail?¶ms=245|ND_700_120"
+    },
+    {
+        "Name": "Royal Jinene",
+        "Price": "55",
+        "Location": "Sousse",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Royal-Jinene/detail?¶ms=419|ND_252_34"
+    },
+    {
+        "Name": "Marhaba Club",
+        "Price": "69.833",
+        "Location": "Sousse",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Marhaba-Club/detail?¶ms=415|ND_1066_106"
+    },
+    {
+        "Name": "Laico Hammamet (ex Blue Marine Hotel & Thalasso)",
+        "Price": "97.167",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Laico-Hammamet-ex-Blue-Marine-Hotel--Thalasso/detail?¶ms=419|ND_27_10"
+    },
+    {
+        "Name": "Le Paradis Palace",
+        "Price": "103.333",
+        "Location": "Hammamet",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension Plus",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Le-Paradis-Palace/detail?¶ms=415|ND_776_104"
+    },
+    {
+        "Name": "Hotel Djerba Castille",
+        "Price": "68.167",
+        "Location": "Djerba",
+        "Stars": "4 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Djerba/Hotel-Djerba-Castille/detail?¶ms=415|ND_1212_102"
+    },
+    {
+        "Name": "Sousse Pearl Marriott Resort & Spa",
+        "Price": "147",
+        "Location": "Sousse",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Sousse/Sousse-Pearl-Marriott-Resort--Spa/detail?¶ms=415|ND_1055_106"
+    },
+    {
+        "Name": "Alhambra Thalasso",
+        "Price": "90.333",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Alhambra-Thalasso/detail?¶ms=419|ND_505_10"
+    },
+    {
+        "Name": "Royal Tulip Taj Sultan Resort",
+        "Price": "124.333",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Royal-Tulip-Taj-Sultan-Resort/detail?¶ms=415|ND_789_104"
+    },
+    {
+        "Name": "Khayam Garden Beach Resort & Spa",
+        "Price": "137.5",
+        "Location": "Nabeul",
+        "Stars": "4 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Nabeul/Khayam-Garden-Beach-Resort--Spa/detail?¶ms=419|ND_293_11"
+    },
+    {
+        "Name": "Medina Solaria And Thalasso",
+        "Price": "107.167",
+        "Location": "Hammamet",
+        "Stars": "Étoiles non disponibles",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Medina-Solaria-And-Thalasso/detail?¶ms=419|ND_50_10"
+    },
+    {
+        "Name": "Iberostar Kuriat Palace",
+        "Price": "180.667",
+        "Location": "Monastir",
+        "Stars": "5 étoile(s)",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Monastir/Iberostar-Kuriat-Palace/detail?¶ms=415|ND_1345_108"
+    },
+    {
+        "Name": "Royal Tulip Korbous Bay",
+        "Price": "264.5",
+        "Location": "Korbous",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Korbous/Royal-Tulip-Korbous-Bay/detail?¶ms=415|ND_3500_33967"
+    },
+    {
+        "Name": "La Badira",
+        "Price": "183.167",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/La-Badira/detail?¶ms=419|ND_244_10"
+    },
+    {
+        "Name": "Tui Blue Palm Beach Palace",
+        "Price": "516.667",
+        "Location": "Mednine",
+        "Stars": "Étoiles non disponibles",
+        "Type": "Soft All Inclusive",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Mednine/Tui-Blue-Palm-Beach-Palace/detail?¶ms=419|ND_326_18"
+    },
+    {
+        "Name": "Thabraca Thalasso & Diving",
+        "Price": "153.833",
+        "Location": "Jendouba",
+        "Stars": "Étoiles non disponibles",
+        "Type": "Demi Pension",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Jendouba/Thabraca-Thalasso--Diving/detail?¶ms=419|ND_365_33"
+    },
+    {
+        "Name": "The Orangers Garden Villas & Bungalows",
+        "Price": "384.5",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "All Inclusive",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/The-Orangers-Garden-Villas--Bungalows/detail?¶ms=419|ND_231_10"
+    },
+    {
+        "Name": "Royal Azur Thalassa",
+        "Price": "224.5",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Royal-Azur-Thalassa/detail?¶ms=415|ND_826_104"
+    },
+    {
+        "Name": "Vincci Saphir Palace & Spa",
+        "Price": "112.333",
+        "Location": "Hammamet",
+        "Stars": "5 étoile(s)",
+        "Type": "Logement Petit Déjeuner",
+        "Link": "https://activetravel.com.tn/hotels-en-tunisie/Hammamet/Vincci-Saphir-Palace--Spa/detail?¶ms=415|ND_805_104"
+    }
+]

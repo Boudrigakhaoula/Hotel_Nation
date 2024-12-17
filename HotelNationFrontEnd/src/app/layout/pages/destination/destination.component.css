@@ -1,0 +1,114 @@
+/* Hotel Header and Name Styles */
+.hotel-header {
+    background: linear-gradient(135deg, #FFF8DE, #D0E8C5);
+    padding: 15px;
+    border-radius: 10px 10px 0 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.hotel-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 100%);
+    z-index: 1;
+}
+
+.hotel-name {
+    color: #117554;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0;
+    position: relative;
+    z-index: 2;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+    letter-spacing: 0.5px;
+    transition: transform 0.3s ease;
+}
+
+.package-item:hover .hotel-name {
+    transform: scale(1.05);
+}
+
+/* Existing Package Item Styles */
+.package-item {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.package-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+/* Price Styles */
+.price {
+    color: #EB5353;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+/* Stars Container Styles */
+.stars-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 15px 0;
+}
+
+.fa-star {
+    color: #ffc107;
+}
+
+/* Hotel Type Styles */
+.hotel-type {
+    background: #f8f9fa;
+    padding: 8px 15px;
+    border-radius: 20px;
+    color: #6c757d;
+    display: inline-block;
+    margin: 10px 0;
+}
+
+/* Load More Button Styles */
+.load-more-btn {
+    padding: 10px 25px;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+}
+
+.load-more-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(13,110,253,0.2);
+}
+
+.price-filter {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.price-filter input {
+    border-radius: 25px 0 0 25px;
+    border: 1px solid #ced4da;
+    padding: 10px 20px;
+}
+
+.price-filter .btn {
+    border-radius: 0 25px 25px 0;
+    padding: 10px 25px;
+}
+
+.price-filter input:focus {
+    box-shadow: none;
+    border-color: #0d6efd;
+}
